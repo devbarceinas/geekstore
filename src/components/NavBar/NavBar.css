@@ -5,7 +5,7 @@
   height: 80px;
   background-color: #E10098;
   color: #FFFFFF;
-  padding: 0 250px;
-  justify-content: space-between;
+  padding: 0 100px;
+  justify-content: space-around;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }

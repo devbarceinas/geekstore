@@ -1,0 +1,29 @@
+.product-container {
+  border: 1px solid #d8d8d8;
+  width: 20%;
+  color: #3B3B3E;
+  padding: 10px 15px;
+  margin: 0 6px 6px 6px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+}
+
+.product-container:hover {
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+}
+
+.product-img {
+  object-fit: cover;
+  width: 50%;
+}
+
+.product-container--img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-price {
+  color: #C81685;
+}

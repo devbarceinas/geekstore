@@ -1,0 +1,11 @@
+.layout-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #FFFFFF;
+  color: #F2F2F2F2;
+}
+
+.layout-min {
+  width: 1200px;
+}
